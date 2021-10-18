@@ -30,6 +30,9 @@ Users should be able to:
 
 ### Screenshot
 
+![screencapture-file-Users-kiran-Desktop-manage-landing-page-master-index-html-2021-10-18-12_18_51](https://user-images.githubusercontent.com/67024458/137746708-22a55ce0-e527-46fa-bdb0-86bb74bb273c.png)
+
+![screencapture-file-Users-kiran-Desktop-manage-landing-page-master-index-html-2021-10-18-12_19_51](https://user-images.githubusercontent.com/67024458/137746716-969192de-a027-405a-a625-34a75d122751.png)
 
 
 ### Links
